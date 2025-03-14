@@ -1,2 +1,1 @@
-cd alice-workshop
-git checkout -b dev step0
+`npm install`
